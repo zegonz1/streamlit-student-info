@@ -1,6 +1,6 @@
 from curses.ascii import FF
 import streamlit as st
-#FF
+#mFF
 # Title of the app
 st.title("Student Information")
 title = st.text_input("Enter the student name", "Tintin")
